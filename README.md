@@ -1,4 +1,0 @@
-SushiCrush
-==========
-
-SushiCrush
